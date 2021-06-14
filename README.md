@@ -11,5 +11,5 @@ I am a former high school computer science and technology teacher transitioning 
 
 ## Links
 
-* LinkedIn: [AlexFWolfe](https://linkedin.com/in/AlexFWolfe)
+* LinkedIn: [afwolfe](https://linkedin.com/in/afwolfe)
 * Twitter: [@AlexFWolfe](https://twitter.com/AlexFWolfe)
