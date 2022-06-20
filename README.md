@@ -1,6 +1,5 @@
 # Hello, I am Alex. :wave:
 <a href="https://linkedin.com/in/afwolfe">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://twitter.com/AlexFWolfe">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
 
 I am a Full-Stack Software Engineer in Connecticut.
 
@@ -16,13 +15,16 @@ I am a Full-Stack Software Engineer in Connecticut.
     <img title="Bash" alt="Bash" src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" style="height:40px; width:40px;" />&nbsp;
     <img title="C" alt="C" src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" style="height:40px; width:40px;" />&nbsp;
     <img title="Docker" alt="Docker" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" style="height:40px; width:40px;" />&nbsp;
+    <img title="Fedora" alt="Fedora" src="https://github.com/devicons/devicon/raw/master/icons/fedora/fedora-original.svg" style="height:40px;width:40px;" />&nbsp;
     <img title="Git" alt="Git" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" style="height:40px; width:40px;" />&nbsp;
     <img title="Gradle" alt="Gradle" src="https://github.com/devicons/devicon/raw/master/icons/gradle/gradle-plain.svg" style="height:40px; width:40px;" />&nbsp;
     <img title="Java" alt="Java" src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" style="height:40px; width:40px;" />&nbsp;
     <img title="Javascript" alt="Javascript" src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" style="height:40px; width:40px;" />&nbsp;
     <img title="JetBrains" alt="JetBrains" src="https://github.com/devicons/devicon/raw/master/icons/jetbrains/jetbrains-original.svg" style="height:40px; width:40px;" />&nbsp;
     <img title="Linux" alt="Linux" src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" style="height:40px; width:40px;" />&nbsp;
+    <img title="NGINX" alt="NGINX" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" style="height:40px; width:40px;" />&nbsp;
     <img title="NodeJS" alt="NodeJS" src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" style="height:40px; width:40px;" />&nbsp;
+    <img title="Podman" alt="Podman" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/podman/podman-original.svg" style="height:40px; width:40px;" />&nbsp;
     <img title="Python" alt="Python" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" style="height:40px; width:40px;" />&nbsp;
     <img title="Raspberry Pi" alt="Raspberry Pi" src="https://github.com/devicons/devicon/raw/master/icons/raspberrypi/raspberrypi-original.svg" style="height:40px; width:40px;" />&nbsp;
     <img title="Spring" alt="Spring" src="https://github.com/devicons/devicon/raw/master/icons/spring/spring-original.svg" style="height:40px; width:40px;" />&nbsp;
