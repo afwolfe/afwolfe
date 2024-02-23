@@ -11,13 +11,13 @@ I am a Full-Stack Software Engineer in Connecticut.
 <div>
     <img title="Angular" alt="Angular" src="https://github.com/devicons/devicon/raw/master/icons/angularjs/angularjs-original.svg" style="height:40px; width:40px;" />&nbsp;
     <img title="Apple/Mac" alt="Apple/Mac" src="https://github.com/devicons/devicon/raw/master/icons/apple/apple-original.svg" style="height:40px; width:40px;" />&nbsp;
-    <img title="AWS" alt="AWS" src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original.svg" style="height:40px; width:40px;" />&nbsp;
+    <img title="AWS" alt="AWS" src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="height:40px; width:40px;" />&nbsp;
     <img title="Bash" alt="Bash" src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" style="height:40px; width:40px;" />&nbsp;
     <img title="C" alt="C" src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" style="height:40px; width:40px;" />&nbsp;
     <img title="Docker" alt="Docker" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" style="height:40px; width:40px;" />&nbsp;
     <img title="Fedora" alt="Fedora" src="https://github.com/devicons/devicon/raw/master/icons/fedora/fedora-original.svg" style="height:40px;width:40px;" />&nbsp;
     <img title="Git" alt="Git" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" style="height:40px; width:40px;" />&nbsp;
-    <img title="Gradle" alt="Gradle" src="https://github.com/devicons/devicon/raw/master/icons/gradle/gradle-plain.svg" style="height:40px; width:40px;" />&nbsp;
+    <img title="Gradle" alt="Gradle" src="https://github.com/devicons/devicon/raw/master/icons/gradle/gradle-original.svg" style="height:40px; width:40px;" />&nbsp;
     <img title="Java" alt="Java" src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" style="height:40px; width:40px;" />&nbsp;
     <img title="Javascript" alt="Javascript" src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" style="height:40px; width:40px;" />&nbsp;
     <img title="JetBrains" alt="JetBrains" src="https://github.com/devicons/devicon/raw/master/icons/jetbrains/jetbrains-original.svg" style="height:40px; width:40px;" />&nbsp;
@@ -28,6 +28,7 @@ I am a Full-Stack Software Engineer in Connecticut.
     <img title="Python" alt="Python" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" style="height:40px; width:40px;" />&nbsp;
     <img title="Raspberry Pi" alt="Raspberry Pi" src="https://github.com/devicons/devicon/raw/master/icons/raspberrypi/raspberrypi-original.svg" style="height:40px; width:40px;" />&nbsp;
     <img title="Spring" alt="Spring" src="https://github.com/devicons/devicon/raw/master/icons/spring/spring-original.svg" style="height:40px; width:40px;" />&nbsp;
+    <img title="Terraform" alt="Terraform" src="https://github.com/devicons/devicon/raw/master/icons/terraform/terraform-original.svg" style="height:40px; width:40px;" />&nbsp;
     <img title="Tomcat" alt="Tomcat" src="https://github.com/devicons/devicon/raw/master/icons/tomcat/tomcat-original.svg" style="height:40px; width:40px;" />&nbsp;
     <img title="Typescript" alt="Typescript" src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" style="height:40px; width:40px;" />&nbsp;
     <img title="Visual Studio Code" alt="Visual Studio Code" src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" style="height:40px; width:40px;" />&nbsp;
